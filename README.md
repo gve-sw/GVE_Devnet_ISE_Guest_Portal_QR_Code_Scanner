@@ -44,7 +44,7 @@ The following overview shows the different component interactions introduced int
 
 5. Enter the code in `main.html` in the `Optional Content 2` field, after clicking the script mode button:
 
-*NOTE: Lines 92-106 depend on the splash page's HTML code. The `div` identifier used to inject the QR code button might need to be changed accordingly.*
+*NOTE: Lines 57-66, 77-83 and 107-120 depend on the splash page's HTML code. The `div` identifier used to inject the QR code button might need to be changed accordingly.*
 
 <img src="IMAGES/step5.png" width="600">
 
